@@ -1,4 +1,4 @@
-We used the detector of YOLO V7 as the monkey detector of the proposed [BARN](https://github.com/BertonYang18/BARN-monkey) (a network for multi-label behavior detection of socially housed macaques)
+We used the detector of [YOLO V7](https://github.com/WongKinYiu/yolov7) as the monkey detector of the proposed [BARN](https://github.com/BertonYang18/BARN-monkey) (a network for multi-label behavior detection of socially housed macaques)
 
 
 
