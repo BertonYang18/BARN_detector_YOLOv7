@@ -24,6 +24,12 @@ cd /yolov7
 
 </details>
 
+## Checkpoint
+The learned weights from the macaque identity dataset is open on the [ckpt95.2mAP](https://pan.baidu.com/s/1f7U38pNNS6MOJhvbeoqCag?pwd=gkhe). Extraction code：gkhe
+The results on the test set is published on the [link](https://pan.baidu.com/s/1uaOCGYyw-J7Z0lACyUPS3w?pwd=j2vc). Extraction code：j2vc
+
+
+
 ## Testing
 
 [`yolov7.pt`](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt) [`yolov7x.pt`](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7x.pt) [`yolov7-w6.pt`](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-w6.pt) [`yolov7-e6.pt`](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-e6.pt) [`yolov7-d6.pt`](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-d6.pt) [`yolov7-e6e.pt`](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-e6e.pt)
